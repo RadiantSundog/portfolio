@@ -489,6 +489,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   right: 0;
   z-index: -4;
 }
+.custom-link {
+  color: #fff;
+}
 
 /************ Projects Css ************/
 .contact {
